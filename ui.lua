@@ -1,0 +1,1 @@
+-- Placeholder for ui elements, these will be bound to camera coordinates so that they move along with it.
