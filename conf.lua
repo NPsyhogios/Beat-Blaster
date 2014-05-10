@@ -1,0 +1,10 @@
+function love.conf(t)
+    t.title = "Beat Blaster [EDITOR]"	-- The title of the window the game is in (string)
+    t.author = "Nick Psyhogios"			-- The author of the game (string)
+	--t.screen.width = 1024				-- The window width (number)
+    --t.screen.height = 768				-- The window height (number)
+	t.screen.width = 800				-- The window width (number)
+    t.screen.height = 600				-- The window height (number)
+    t.screen.fullscreen = false			-- Enable fullscreen (boolean)
+    t.screen.vsync = true				-- Enable vertical sync (boolean)
+end
